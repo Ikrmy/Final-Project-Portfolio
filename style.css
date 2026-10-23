@@ -58,3 +58,9 @@ img {
 .hero h1 {
   font-size: 48px;
 }
+
+.about {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
