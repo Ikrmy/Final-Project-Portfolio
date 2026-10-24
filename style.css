@@ -64,3 +64,22 @@ img {
   flex-direction: column;
   gap: 8px;
 }
+
+section {
+  margin: 24px;
+  padding: 24px;
+}
+
+/* skills list*/
+
+.skills-list {
+  margin-top: 16px;
+  display: flex;
+  gap: 16px;
+}
+
+.skills-list span {
+  border: 1px solid white;
+  padding: 16px 24px;
+  border-radius: 8px;
+}
