@@ -99,3 +99,24 @@ section {
 .project p {
   margin: 8px 0;
 }
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: 16px;
+}
+
+input,
+textarea {
+  padding: 16px;
+  border-radius: 8px;
+  border: 1px solid white;
+}
+
+button {
+  border: none;
+  border-radius: 8px;
+  padding: 16px;
+  background-color: #e0613eef;
+}
