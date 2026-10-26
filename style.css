@@ -40,6 +40,11 @@ a {
   padding: 0 24px;
 }
 
+.hero h1 {
+  color: olivedrab;
+  font-size: 60px;
+}
+
 .hero {
   display: flex;
   justify-content: space-between;
